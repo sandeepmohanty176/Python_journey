@@ -1,6 +1,6 @@
-l1  = [50,20,80,89,56]
-print(type(l1))
-
+l1="udihisu hiuehijwn"
+s1=l1.split('-')
+print(s1)
         
 
     
