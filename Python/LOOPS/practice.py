@@ -1,10 +1,5 @@
-l1="udihisu hiuehijwn"
-s1=l1.split('-')
-print(s1)
-        
-
-    
-    
+s="sandeep mohnty"
+print(s[::-1])
   
 
 
