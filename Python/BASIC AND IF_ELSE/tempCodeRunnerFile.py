@@ -1,0 +1,1 @@
+a=int(input("Enetr any number:"))

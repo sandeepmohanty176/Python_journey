@@ -1,15 +1,15 @@
-a=int(input("ENter YOur Marks:"))
-if a<=100 and a>=90:
-    print("O GRADE")
-elif a<=89 and a>=80:
-    print("E GRADE")
-elif a<=79 and a>=70:
-    print("A GRADE")
-elif a<69 and a>=60:
-    print("B GRADE")
-elif a<=59 and a>=50:
-    print("D GRADE")
-elif a<=49 and a>=37:
-    print("D GRADE")
+a=int(input("ENter Your Marks:"))
+if a>=90 and a<101:
+    print("O grade")
+elif a>=80 and a<90:
+    print("E grade")
+elif a>=70 and a<80:
+    print("A grade")
+elif a>=60 and a<70:
+    print("B grade")
+elif a>=50 and a<60:
+    print('C grade')
+elif a>=37 and a<50:
+    print('D garde')
 else:
-    print("FAIL!!!!!!!!!")
+    print('FAIL!!!!!')

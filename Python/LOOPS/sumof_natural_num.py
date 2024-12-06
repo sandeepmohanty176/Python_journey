@@ -7,4 +7,5 @@ while i<=a:
     print(i,end=",")
     s=s+i
     i=i+1
+print()
 print("Sum is:",s)
